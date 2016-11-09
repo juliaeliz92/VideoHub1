@@ -1,0 +1,241 @@
+.wrap, .wrap1, .wrap2
+{
+	background: url(../images/wallpaper.jpg);
+	overflow: hidden;
+	position: relative;
+}
+.wrap
+{
+	top: 110px;
+	height: 450px;
+}
+.wrap1
+{
+	height: 1645px;
+	top: 110px;
+}
+
+header
+{
+	background:skyblue;
+	z-index: 2;
+	position: fixed;
+}
+.head 
+{	
+
+	margin-top: 15px;
+	text-indent: 20px;
+	font-size: 50px;
+	color: snow;
+	text-shadow: -5px -5px 10px yellow;
+	font-family: 'Shrikhand', cursive;
+}
+header li
+{
+	display: inline;
+	font-size: 20px;
+
+}
+nav a
+{
+
+	text-decoration: none;
+	color: white;
+}
+nav a:hover
+{
+	color: red;
+}
+nav ul
+{
+	margin-left: 80px;
+	margin-top: 40px;
+}
+.register li, .login li, .offers li
+{
+	padding-top: 10px;
+	list-style-type: none;
+	
+}
+.offers li
+{	
+	list-style-type: square;
+	
+}
+blockquote
+{
+	text-align: center;
+}
+.action h2, .fav h2, .prev_video h2, .vid_details h2
+{
+	padding-left: 10px;
+	padding-top: 10px;
+	font-family: 'Lalezar', cursive;
+	font-size: 30px;
+	text-align:center;
+}
+.prev_video #myvideo
+{
+	margin-left: 30px;
+}
+.fav
+{
+	margin-top: 110px;
+	text-align: center;
+	height: 690px;	
+	background: #D3D3D3;
+	overflow: hidden;
+}
+.offers, .register, .login
+{
+	margin-top: 40px;
+	height: 260px;
+}
+.library h5
+{
+	text-indent: 10px;
+}
+
+footer
+{
+	width: 960px;
+	overflow: hidden;
+	background: silver;
+	height: 200px;
+}
+.contact1, .contact2, .contact3
+{
+	margin-top: 50px;
+	padding-left: 50px;
+
+}
+.border
+{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-size: 20px;
+	background: silver;
+	height: 80px;
+}
+.border h3
+{
+	padding-top: 20px;
+}
+.offers, .register, .login, .prev_fav, .instruction
+{
+	background: aliceblue;
+	border-radius: 10px;
+	box-shadow: 5px 10px 10px lightgrey;
+}
+.instruction
+{
+	margin-top: 100px;
+	height: 350px;
+	width: 945px;
+	margin-left: 8px;
+}
+.img
+{
+	border:1px solid black;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	width:200px;
+	height:100px; 
+	margin-left: 35px;
+}
+.ins1 p
+{
+	text-indent: 50px;
+}
+
+.prev_fav
+{
+	height: 400px;
+	margin-top: 80px;
+	margin-left: 8px;
+	margin-bottom: 100px;
+	width: 945px;
+}
+.vid_details
+{
+	margin-left: 10px;
+}
+.prev_video, .contact1, .contact2, .ins1, .ins2, .eng1 , .eng2, .mal1, .mal2, .health1, .health2
+{
+	border-right: 1px solid black;
+}
+.fav h2, .prev_fav h2, .instruction h2
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.library h5
+{
+	margin-top: 15px;
+}
+.contact2, .contact1
+{
+	height: 127px;
+	margin-right: 20px;
+	padding-right: 20px;
+}
+.library iframe
+{
+	width:280px;
+	height: 150px;
+	
+}
+.english, .malayalam, .health
+{
+	background: aliceblue;
+	height: 375px;
+	margin-bottom: 60px;
+	padding-left: 15px;
+}
+.title
+{
+	text-align: center;
+}
+.category
+{
+	text-indent: 15px;
+	padding-top: 30px;
+	font-size: 35px;
+	font-family: 'Lalezar', cursive;
+}
+
+.instruction h2
+{
+	font-family: 'Cookie', cursive;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+video
+{
+	z-index: 1;
+}
+footer dt
+{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#yname
+{
+	margin-left: 22px;
+}
+#email
+{
+	margin-left: 23px;
+}
+#email1
+{
+	margin-left: 24px;
+}
+.action
+{
+	margin-left: 10px;
+}
