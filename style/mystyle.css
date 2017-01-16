@@ -62,6 +62,7 @@ nav ul
 {	
 	list-style-type: square;
 	
+	
 }
 blockquote
 {
@@ -214,10 +215,7 @@ footer
 	font-size: 30px;
 	text-align: center;
 }
-video
-{
-	z-index: 1;
-}
+
 footer dt
 {
 	font-size: 20px;
